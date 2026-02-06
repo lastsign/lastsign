@@ -1,5 +1,5 @@
 ## Education
-#### 📚 KFU, Fundamental Informatics, Kazan
+#### 📚 KFU, Fundamental Informatics
 #### ⭐️ Student of school21
 
 ### My progress
@@ -37,11 +37,6 @@ i was virtualized a network and do "clustering"".
 
 [![minishell](https://img.shields.io/badge/-Minishell-0C1117??style=flat-square&logo=Linux)](https://github.com/lastsign/lastsign_minishell)
 The goal of the project was to write its own command shell.
-### Follow Me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-0C1117??style=flat-square&logo=Telegram)](https://t.me/FasionSenses)
-[![Instagram](https://img.shields.io/badge/-Instagram-0C1117??style=flat-square&logo=Instagram)](https://www.instagram.com/bannikov__d)
-[![VK](https://img.shields.io/badge/-VK-0C1117??style=flat-square&logo=VK)](https://www.vk.com/id166944568)
 
 <!--
 - 🔭 I’m currently working on ...
